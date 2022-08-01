@@ -26,7 +26,7 @@
 ### Conhecimentos Adicionais:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   
-### Aprendendo no momento:
+### Querendo aprender:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 
   <div align="center">
